@@ -77,7 +77,7 @@ public class swingd2 extends JFrame  implements ActionListener {
         //-------------------------------------
 
 
-        boton4 = new JButton("TOCA ACA PARA CONOCER EL PATRON");
+        boton4 = new JButton("TOCA ACÁ PARA CONOCER EL PATRON");
         boton4.addActionListener(this);
 
         boton4.setBounds(150, 440, 300, 20);
