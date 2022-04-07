@@ -135,12 +135,13 @@ public class swingd2 extends JFrame  implements ActionListener {
                     throw new Exception();
                 }
                 verificar +=1;
+                
 
             }
             else if(e.getSource().equals(boton3)){
 
 
-                verificar +=1;
+                //verificar +=1;
                 if(verificar != 2){
                     throw new Exception();
                 }
